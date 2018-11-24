@@ -1,0 +1,1 @@
+output is : Case label is ACase label is B
